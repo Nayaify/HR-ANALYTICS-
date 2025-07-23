@@ -1,8 +1,10 @@
 # HR-ANALYTICS-
-Objective
+Objective:
+
 I analyzied HR data to identify patterns and key factors that contribute to employee attrition, and to support the HR team in creating strategic retention plans using data-driven insights
 
-📂 Dataset Description
+📂 Dataset Description:
+
 The dataset contains detailed records for each employee, including:
 Demographic Info: Age, Age Group, Gender, Marital Status
 Work-Related Info: Department, Job Role, Job Level, Job Involvement, Business Travel
@@ -12,37 +14,41 @@ Financial Data: Monthly Income, Monthly Rate, Salary Slab, Overtime, Stock Optio
 Attrition Status: Attrition Count, Whether the employee has left the organization
 
 
- Tools Used
+ Tools Used:
+ 
 - Excel (Dataset Preparation)
 - Power Query (Data Cleaning & Transformation)
 - Power BI (Data Visualization)
 
-📁 Dataset Overview
+📁 Dataset Overview:
+
 - Employment Count: 1,480 employees
 - Attrition Count: 238 employees
 - Attrition Rate: 16%
 - Average Salary: $6,500
 - Average Age: 37 years
 
- Key Insights
- Attrition by Education
+ Key Insights:
+ 
+ Attrition by Education:
 - Life Science employees had the highest attrition
 - Medical followed closely behind
 
-Attrition by Age Group
+Attrition by Age Group:
 - Employees aged 26-35 had the highest attrition rate
 
-Attrition by Salary
+Attrition by Salary:
 - Employees earning up to $5000 showed the most attrition
 
-Attrition by Years at the Company
+Attrition by Years at the Company:
 - Employees with 59 years at the company had the highest attrition
  
-
- Attrition by Job Role
+ Attrition by Job Role:
 -Research Scientist had the highest attrition count among all roles
 
+
 ✅Recommendations
+
 Based on my findings, here are some key strategies to help reduce attrition:
 
 - Enhance Career Progression for Mid-Level Employees
@@ -82,7 +88,8 @@ This dashboard is useful for:
 - Leadership assessing retention risk factors
 - Recruitment strategy optimization
 
-  ⚠️ Challenges 
+  ⚠️ Challenges:
+   
 -Incomplete or Inconsistent Data
 Some employee records were missing key information like years at the company, job satisfaction, years at current role etc. This required extra cleaning and assumptions, which may have slightly impacted accuracy.
 
@@ -98,7 +105,7 @@ Some education types or job roles had very few employees, which limited how much
 No External Benchmarking
 We didn’t have access to industry-wide attrition data for comparison, which made it difficult to determine if the observed trends were unique to the company or part of a wider trend.
 
-  📌 Conclusion
+  📌 Conclusion:
 This analysis has shed light on critical patterns of employee attrition that are tied to education, job roles, salary, age, and years of service. By taking targeted action based on these insights, the organization can strengthen employee satisfaction, improve retention, and reduce the long-term cost of turnover.
 
    
